@@ -7,3 +7,4 @@ add
 git add .
 git commit -m "Meaningful commit message"
 git push origin master/main
+git status -- shows the status
